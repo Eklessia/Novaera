@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c888a7-95a8-4e2b-9462-9071636803bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[PL2GARM852107378]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="ProjectId" id="1mprzGzVuaAyMtcOREef4gX8VzM" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="Novaera.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="PL2GARM852107378" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-09T16:12:02.925Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PROSPERO_ARAYA_FUENTES_-_Novaera.zip" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.novaera.presenter" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.novaera.model.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Novaera.app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Novaera.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="32" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c888a7-95a8-4e2b-9462-9071636803bc" name="Default Changelist" comment="" />
+      <created>1610201633783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610201633783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="53" width="642" height="716" key="#Novaera.app" timestamp="1610209274729">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="705" y="53" width="642" height="716" key="#Novaera.app/0.27.1920.1053@0.27.1920.1053" timestamp="1610209274729" />
+    <state x="479" y="337" width="950" height="537" key="#PSD" timestamp="1610204011323">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="479" y="337" width="950" height="537" key="#PSD/0.27.1920.1053@0.27.1920.1053" timestamp="1610204011323" />
+    <state x="469" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610203242039">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="469" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610203242039" />
+    <state x="673" y="512" width="1056" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610210739936">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="673" y="512" width="1056" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610210739936" />
+    <state x="945" y="466" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1610210743214">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="945" y="466" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1920.1053@0.27.1920.1053" timestamp="1610210743214" />
+    <state x="945" y="226" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1610210063635">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="945" y="226" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610210063635" />
+    <state x="542" y="360" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1610204654386">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="542" y="360" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610204654386" />
+    <state x="780" y="324" width="452" height="550" key="FileChooserDialogImpl" timestamp="1610214836858">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="780" y="324" width="452" height="550" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1610214836858" />
+    <state width="1113" height="156" key="GridCell.Tab.0.bottom" timestamp="1610209004384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1113" height="156" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1610209004384" />
+    <state width="1113" height="156" key="GridCell.Tab.0.center" timestamp="1610209004384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1113" height="156" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1610209004384" />
+    <state width="1113" height="156" key="GridCell.Tab.0.left" timestamp="1610209004384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1113" height="156" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1610209004384" />
+    <state width="1113" height="156" key="GridCell.Tab.0.right" timestamp="1610209004384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1113" height="156" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1610209004384" />
+    <state x="448" y="238" width="1022" height="737" key="SettingsEditor" timestamp="1610204384234">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="448" y="238" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1610204384234" />
+    <state x="615" y="430" key="com.intellij.ide.util.TipDialog" timestamp="1610213631486">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="615" y="430" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610213631486" />
+    <state x="549" y="267" width="800" height="684" key="scopes" timestamp="1610204246381">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="549" y="267" width="800" height="684" key="scopes/0.27.1920.1053@0.27.1920.1053" timestamp="1610204246381" />
+  </component>
+</project>
